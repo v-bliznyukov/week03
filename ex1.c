@@ -8,7 +8,7 @@ int c;
 c=22;
 //print out address of c using '&' operator
 printf("Address of c:%d\n",&c); 
-//print out value of c
+//print out
 printf("Value of c:%d\n\n",c); 
 //store the address of c in pc
 pc=&c;
