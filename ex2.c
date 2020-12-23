@@ -19,7 +19,7 @@ void bubble_sort(int array[], int n){
       }
     }
   }
-  //prints sorted array 
+  //
   printf("Sorted array is:\n");
   for (int k=0; k<n;k++){
     printf("%d", array[k]);
